@@ -16,7 +16,7 @@ class ComposioApi implements INodeCredential {
         this.inputs = [
             {
                 label: 'Composio API Key',
-                name: 'composioApiKey',
+                name: 'composioApi',
                 type: 'password'
             }
         ]
