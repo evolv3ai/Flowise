@@ -38,6 +38,7 @@ export const availableDependencies = [
     'cheerio',
     'chromadb',
     'cohere-ai',
+    'composio-core',
     'd3-dsv',
     'faiss-node',
     'form-data',
